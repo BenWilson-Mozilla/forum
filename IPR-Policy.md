@@ -48,7 +48,7 @@ The affirmative act of joining a Working Group will obligate a Participant to th
 
 ## 4.1 Review of Draft Specifications.
 
-Prior to the approval of a CAB Forum Draft Guideline as a CAB Forum Final Guideline or Final Maintenance Guideline, there shall be a review period during which Working Group Participants may exclude certain Essential Claims from CAB Forum RF Licenses. The CAB Forum Chair shall initiate the Review Period by distributing to each Working Group Participant a notice of review period and a complete draft of the Draft Guideline that is the subject of such notice (“Review Notice”). Each Participant shall have sixty (60) days following the date of the receipt of such Review Notice (“Review Period”) to review such Draft Guideline and consider any licensing obligations with respect to any Essential Claims that may be encompassed by such Draft Guideline. The approval of a CAB Forum Final Maintenance Guideline shall follow the same process except that the Review Period shall be thirty (30) days.
+Prior to the approval of a CAB Forum Draft Guideline as a CAB Forum Final Guideline or Final Maintenance Guideline, there shall be a review period during which Working Group Participants may exclude certain Essential Claims from CAB Forum RF Licenses. The CAB Forum Chair or Working Group Chair shall initiate the Review Period by distributing to each Working Group Participant a notice of review period and a complete draft of the Draft Guideline that is the subject of such notice (“Review Notice”). Each Participant shall have sixty (60) days following the date of the receipt of such Review Notice (“Review Period”) to review such Draft Guideline and consider any licensing obligations with respect to any Essential Claims that may be encompassed by such Draft Guideline. The approval of a CAB Forum Final Maintenance Guideline shall follow the same process except that the Review Period shall be thirty (30) days.
 
 ## 4.2 Excluding Patents and/or Patent Applications From Royalty-Free Licensing Obligations During Review Period.
 
@@ -56,19 +56,19 @@ Except for Essential Claims encompassed by a Participant’s Contributions that 
 
 ## 4.3 Conditions and Procedure for Excluding Patents and/or Patent Applications From CAB Forum RF License.
 
-A Participant seeking to exclude Essential Claims from the CAB Forum RF License in accordance with Section 4.2 must provide written notice of such intent to the CAB Forum Chair with a copy to the appropriate Working Group Chair and the CAB Forum public mailing list (public@cabforum.org) (“Exclusion Notice”) within the Review Period. The Exclusion Notice shall be effective upon its receipt by the CAB Forum Chair. The Exclusion Notice shall include identification of the numbered section of the Final Guideline or Final Maintenance Guideline whose implementation makes the excluded claim an Essential Claim for each of the issued patent(s) or pending patent application(s) that a Participant reasonably believes at the time may contain Essential Claims the Participant wishes to exclude from the CAB Forum RF License. For issued patents, the Exclusion Notice shall also include the patent number(s). For pending patent applications, the Exclusion Notice shall also include the title and application number(s). If an issued patent or pending patent application that may contain Essential Claims is not set forth in the Exclusion Notice, such Essential Claims shall continue to be subject to the CAB Forum RF License. For unpublished patent applications, the Exclusion Notice shall also include a copy of the patent application. In addition, Exclusion Notices shall be published at https://cabforum.org/ipr-exclusion-notices/.
+A Participant seeking to exclude Essential Claims from the CAB Forum RF License in accordance with Section 4.2 must provide written notice of such intent to the CAB Forum Chair with a copy to the appropriate Working Group Chair and the Working Group's public mailing list (“Exclusion Notice”) within the Review Period. The Exclusion Notice shall be effective upon its posting to the Working Group's public mailing list. The Exclusion Notice shall include identification of the numbered section of the Final Guideline or Final Maintenance Guideline whose implementation makes the excluded claim an Essential Claim for each of the issued patent(s) or pending patent application(s) that a Participant reasonably believes at the time may contain Essential Claims the Participant wishes to exclude from the CAB Forum RF License. For issued patents, the Exclusion Notice shall also specifically identify the patent number(s) and the patent claims that the Participant considers Essential Claims. For pending patent applications, the Exclusion Notice shall also include the title and application number(s) and the patent claims that the Participant considers Essential Claims. If an issued patent or pending patent application that may contain Essential Claims is not set forth in the Exclusion Notice, such Essential Claims shall continue to be subject to the CAB Forum RF License. For unpublished patent applications, the Exclusion Notice shall also include a copy of the patent application. In addition, Exclusion Notices shall be published at https://cabforum.org/ipr-exclusion-notices/.
 
 ## 4.4 Effect of Exclusion Notice.
 
-The timing of the Exclusion Notice will determine the effect on the Participant’s CAB Forum RF License obligation as specified in Sections 4.4(a) and 4.4(b). If a Participant provides the CAB Forum Chair with a timely Exclusion Notice in accordance with Section 4.3, then:
+The timing of the Exclusion Notice will determine the effect on the Participant’s CAB Forum RF License obligation as specified in Sections 4.4(a) and 4.4(b). If a Participant posts a timely and complete Exclusion Notice in accordance with Section 4.3, then:
 
-(a) Such Participant’s CAB Forum RF License obligation shall remain in full force and effect for any Essential Claims in a Final Guideline or Final Maintenance Guideline that has been finally adopted (“Previously Adopted Final Guideline”) by the CAB Forum prior to the date on which the CAB Forum Chair receives such Participant’s Exclusion Notice (“Date of Receipt”); and
+(a) Such Participant’s CAB Forum RF License obligation shall remain in full force and effect for any Essential Claims in a Final Guideline or Final Maintenance Guideline that has been finally adopted (“Previously Adopted Final Guideline”) by the CAB Forum prior to the date on which such Participant’s Exclusion Notice is posted (“Date of Receipt”); and
 
 (b) Such Participant’s CAB Forum RF License obligation shall remain in full force and effect for any Essential Claims in any Draft Guideline for which a Review Period has been completed unless and to the extent that an Exclusion Notice has been given within such Review Period.
 
 ## 4.5 New Participant Reviews.
 
-When a new Participant joins a Working Group, such Participant shall be permitted not less than forty- five (45) days to review the Draft Guideline then under review, and any previously adopted Final Guidelines and Final Maintenance Guideline of such Working Group for any and all Essential Claims and to commit in a separate written agreement to the CAB Forum RF License requirement, as to any Final Guidelines or Final Maintenance Guidelines or Draft Guidelines of such Working Group for which the Review Period has been completed. Failure to provide such written agreement will result in the inability to participate in the Working Group. With respect to any Working Group Draft Guideline for which a Review Period has commenced, a new Participant shall have the remainder of the Review Period in which to submit an Exclusion Notice.
+When a new Participant joins a Working Group, such Participant shall be permitted forty-five (45) days to review the Draft Guideline then under review, and any previously adopted Final Guidelines and Final Maintenance Guideline of such Working Group for any and all Essential Claims and to commit in a separate written agreement to the CAB Forum RF License requirement, as to any Final Guidelines or Final Maintenance Guidelines or Draft Guidelines of such Working Group for which the Review Period has been completed. Failure to provide such written agreement will result in the inability to participate in the Working Group. With respect to any Working Group Draft Guideline for which a Review Period has commenced, a new Participant shall have the remainder of the Review Period in which to submit an Exclusion Notice.
 
 # 5. CAB Forum Royalty-Free (RF) License Requirements
 
@@ -127,23 +127,27 @@ b. The Contribution does not contain source code that is intended to be incorpor
 
 c. The Contribution, if incorporated into a Final Guideline or Final Maintenance Guideline will not subject the Final Guideline or Final Maintenance Guideline or implementations of the Final Guideline or Final Maintenance Guideline, in whole or in part, to licensing obligations, restrictions or requirements which are inconsistent with those set forth in this Intellectual Property Rights Policy.
 
-# 7. Exception Handling
+# 7. Patent Advisory Groups
 
-## 7.1. PAG Formation
+## 7.1. Circumstances for PAG Formation
 
-In the event a patent has been disclosed that may contain an Essential Claim, but such Essential Claim is not available under a CAB Forum RF License, a Patent Advisory Group (PAG) will be launched to resolve the conflict. The PAG is an ad-hoc group constituted specifically in relation to the Final Guideline or Final Maintenance Guideline containing the conflict. A PAG may also be formed without such a disclosure if a PAG could help avoid anticipated patent problems.
+In the event a patent has been disclosed that may contain an Essential Claim, but such Essential Claim is not available under a CAB Forum RF License, a Patent Advisory Group (PAG) will be launched by the Working Group Chair to resolve the conflict. The PAG is an ad-hoc group constituted specifically in relation to the Final Guideline or Final Maintenance Guideline containing the conflict. The Working Group Chair may also initiate the formation of a PAG without such a disclosure if the Working Group Chair believes a PAG could help avoid anticipated patent problems. The timing for the inital meeting of the PAG is at the discretion of the Working Group Chair. In some cases, convening a PAG before a specific patent disclosure is made may be useful. In other cases, it may be that the PAG can better resolve the licensing problems when the specification is at the Review Period level. A PAG may also be convened in the event Essential Claims are discovered after a Guideline is issued.
 
-## 7.2. PAG Formation After a Guideline Is Adopted
+## 7.2. PAG Participation
 
-A PAG may also be convened in the event Essential Claims are discovered after a Guideline is issued. In this case the PAG will be open to any interested Member, though the PAG may choose to meet without the holder of the Essential Claims in question.
+The Working Group Chair shall announce the formation of a PAG on the Working Group's public mailing list and request that interested Working Group members indicate their intended participation. A PAG will be open to any interested Working Group member, although the PAG may exclude the holder of the Essential Claim(s) in question. 
 
 ## 7.3. PAG Procedures
 
-### 7.3.1. PAG Formation Timing
+### 7.3.1. Election of PAG Officers
 
-The PAG will be convened by a Chair who shall be elected by the PAG and who must not be affiliated with the company owning the Essential Claim that is the subject of the PAG. The timing for convening the PAG is at the discretion of the Chair. In some cases, convening a PAG before a specific patent disclosure is made may be useful. In other cases, it may be that the PAG can better resolve the licensing problems when the specification is at the Review Period level.
+At an initial meeting of the PAG, members shall elect officers (Chair/s, Vice-Chair/s, etc.), who must not be affiliated with the company owning the Essential Claim that is the subject of the PAG.
 
-### 7.3.2. Possible PAG Conclusions
+### 7.3.2. PAG Meetings and Communications
+
+The PAG may hold periodic teleconferences or face-to-face meetings and communicate through email or other electronic means.
+
+### 7.3.3. Possible PAG Conclusions
 
 After appropriate consultation, the PAG may conclude:
 
@@ -163,7 +167,7 @@ f. Alternative licensing terms should be considered.
 
  ## 8.1. Essential Claims
 
-“Essential Claims” shall mean all claims in any patent or patent application in any jurisdiction in the world that would necessarily be infringed by implementation of any Normative Requirement in a Final Guideline or Final Maintenance Guideline. A claim is necessarily infringed hereunder only when it is not possible to avoid infringing it because there is no non-infringing alternative for implementing a Normative Requirement of a Final Guideline or Final Maintenance Guideline. Existence of a non- infringing alternative shall be judged based on the state of the art at the time the guideline is adopted as a Final Guideline or Final Maintenance Guideline. If a Normative Requirement in a Final Guideline or Final Maintenance Guideline may be fulfilled by any of a list of specified alternatives, then for determination of whether a claim is an Essential Claim, each of the specified alternatives should be considered independently as if it were the only method for fulfilling that requirement.
+“Essential Claims” shall mean all claims in any patent or patent application in any jurisdiction in the world that would necessarily be infringed by implementation of any Normative Requirement in a Final Guideline or Final Maintenance Guideline. A claim is necessarily infringed hereunder only when it is not possible to avoid infringing it because there is no non-infringing alternative for implementing a Normative Requirement of a Final Guideline or Final Maintenance Guideline. Existence of a non-infringing alternative shall be judged based on the state of the art at the time the guideline is adopted as a Final Guideline or Final Maintenance Guideline. If a Normative Requirement in a Final Guideline or Final Maintenance Guideline may be fulfilled by any of a list of specified alternatives, then for determination of whether a claim is an Essential Claim, each of the specified alternatives should be considered independently as if it were the only method for fulfilling that requirement.
 
 ## 8.2. Limitations on the Scope of Definition of Essential Claims
 
