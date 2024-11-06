@@ -14,7 +14,7 @@ copyright: |
 
 ## 1.1 Purposes of the Forum
 
-The Certification Authority Browser Forum (CA/Browser Forum) is a voluntary gathering of  Certificate Issuers and suppliers of Internet browser software and other applications that use certificates (Certificate Consumers).
+The Certification Authority Browser Forum (CA/Browser Forum) is a voluntary gathering of Certificate Issuers and suppliers of Internet browser software and other applications that use certificates (Certificate Consumers).
 
 Members of the CA/Browser Forum have worked closely together in defining the guidelines and means of implementation for best practices as a way of providing a heightened security for Internet transactions and creating a more intuitive method of displaying secure sites to Internet users.
 
@@ -78,7 +78,7 @@ The following rules will apply to all ballots, including Draft Guideline Ballots
   
  3. Any Voting Representative can call for a proposed ballot to be published for discussion and comment by the membership. Any proposed ballot needs endorsements by at least one (1) Voting Representative from two (2) other Voting Members in order to proceed. The discussion period then shall take place for at least seven (7) calendar days before votes are cast. At any time, a new version of the ballot (marked with a distinguishing version number) may be posted by the proposer in the same manner as the original. Once no new version of the ballot has been posted for seven (7) calendar days, the proposer may end the discussion period and start the voting period by reposting the final version of the ballot and clearly indicating that voting is to begin, along with the start and end dates and times (including time zone) for the voting period. The ballot automatically fails if ninety (90) calendar days elapse since the proposer last posted a version of the ballot and the voting period has not been started.
   
-4. Upon commencement of the voting period, Voting Members shall have exactly seven (7) calendar days for voting on the proposed ballot, with the deadline clearly communicated in the ballot and sent via a Public Mail List. A proposer may withdraw a ballot containing defective language at any point during the voting period. For ballots related to the Forum level, votes must be sent to the Public Mail List of the Forum. For ballots related to a CWG, votes must be sent to the Public Mail List of the CWG. All voting will take place via a Public Mail List. Votes must be submitted by a Voting Representative to the correct Public Mail List by the end of the voting period (as specified in the ballot) to be considered valid and counted. Each Voting Member, and not the Forum or CWG, will be responsible for taking precautions to make sure such Member's vote is submitted properly and counted. In the event that a Voting Member’s vote on a ballot is not submitted properly, such vote shall not be valid and shall not be counted for any purpose, and there shall be no appeal, re-vote (except in the case of a new ballot submitted to all Voting Members) or other recourse.
+4. Upon commencement of the voting period, Voting Members shall have exactly seven (7) calendar days for voting on the proposed ballot, with the deadline clearly communicated in the ballot and sent via a Public Mail List. A proposer may withdraw a ballot containing defective language at any point during the voting period. For ballots related to the Forum level, votes must be sent to the Public Mail List of the Forum; or when made available, votes are to be submitted via a webpage specified by the Forum for vote collection. For ballots related to a CWG, votes must be sent to the Public Mail List of the CWG; or when made available, votes are to be submitted via a webpage specified by the CWG for vote collection. All voting will take place via a Public Mail List or a webpage specified for vote collection. Votes must be correctly submitted by a Voting Representative using the appropriate method by the end of the voting period (as specified in the ballot) to be considered valid and counted. Each Voting Member, and not the Forum or CWG, will be responsible for taking precautions to make sure such Member's vote is submitted properly and counted. In the event that a Voting Member’s vote on a ballot is not submitted properly, such vote shall not be valid and shall not be counted for any purpose, and there shall be no appeal, re-vote (except in the case of a new ballot submitted to all Voting Members) or other recourse.
 
  5. Voting Members may vote “yes”, “no”, or “abstain” on a ballot. Only votes that indicate a clear “yes” or “no” response to the ballot question shall be considered (i.e. votes to “abstain” and votes that do not indicate a clear “yes” or “no” response will not figure in the calculation of item (6), below).
 
@@ -86,9 +86,9 @@ The following rules will apply to all ballots, including Draft Guideline Ballots
 
  7. A ballot result will be considered valid only when more than half of the number of currently active Voting Members has participated. The number of currently active Voting Members is the average number of Voting Member organizations that have participated in the previous three (3) Forum Meetings and Forum Teleconferences.
 
- 8. The Chair will tabulate and announce the results within three (3) business days of the close of the voting period.
+ 8. The Forum Chair or CWG Chair will tabulate and announce the results within three (3) business days of the close of the voting period.
 
- 9. The Chair may delegate any of his/her duties under this Section 2.3 and Section 2.4 to the Vice Chair as necessary, or the Vice Chair may otherwise execute the duties and obligations of the Chair as provided in Section 4.1(1) of these Bylaws.
+ 9. The Forum Chair or CWG Chair may delegate any of his/her duties under this Section 2.3 and Section 2.4 to a Vice Chair as necessary, or a Vice Chair may otherwise execute the duties and obligations of a Chair as provided in Section 4.1(1) of these Bylaws.
 
 ## 2.4 Requirements for Draft Guideline Ballots
 
@@ -98,16 +98,17 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
 
  2. As described in Section 2.3(3), there will be a discussion period of at least seven (7) days before votes are cast on a Draft Guideline Ballot, with the start date of such discussion period clearly specified in the ballot. The discussion period shall end and the voting period shall commence also according to the procedure specified in Section 2.3(3).
 
- 3. As described in Section 2.3(4), upon commencement of the voting period, Voting Members shall have exactly seven (7) calendar days to vote on a Draft Guideline Ballot, with the deadline clearly communicated in the ballot sent via a Public Mail List. The proposing and endorsing organizations may also vote. For ballots related to the Forum level, votes must be sent to the Public Mail List of the Forum. For ballots related to a CWG, votes must be sent to the Public Mail List of the CWG. All voting will take place via the proper Public Mail List. Votes not submitted to the Public Mail List or not submitted by a Voting Representative, will not be considered valid, and will not be counted for any purpose. The Chair may send an email to a Public Mail List reminding Voting Members of when the voting period opens and closes.
+ 3. As described in Section 2.3(4), upon commencement of the voting period, Voting Members shall have exactly seven (7) calendar days to vote on a Draft Guideline Ballot, with the deadline clearly communicated in the ballot sent via a Public Mail List. The proposing and endorsing organizations may also vote. A Chair may send an email to a Public Mail List reminding Voting Members of when the voting period opens and closes.
 
- 4. The Forum (via the Chair) will tabulate and announce the results within three (3) business days of the close of the initial voting period (the “Initial Vote”). If the Draft Guidelines Ballot does not pass the Initial Vote, the ballot fails.
+ 4. The Forum or its CWG (via its Chair) will tabulate and announce the results within three (3) business days of the close of the initial voting period (the “Initial Vote”). If the Draft Guidelines Ballot does not pass the Initial Vote, the ballot fails.
 
- 5. If a Draft Guideline Ballot passes the Initial Vote, the Chair shall initiate, no later than the third (3rd) business day after the announcement of the Initial Vote results, the Review Period of thirty (30) or sixty (60) days, as applicable and as described in Section 4.1 of the IPR Policy. The Chair will initiate the Review Period by sending the Review Notice to the Public Mail List. The Review Notice will clearly specify the open and close dates and times (with time zone) of the Review Period. If the Chair does not initiate the Review Period within five (5) business days after the announcement of the Initial Vote results, the Vice Chair must initiate the Review Period, using the same process as the Chair would have been required to use.
- 6. The Review Period will continue to the end of the thirty (30) or sixty (60) day period, as applicable, regardless of the number of Exclusion Notices filed pursuant to the IPR Policy during such period, if any. No later than three (3) business days after the conclusion of the applicable Review Period, the Chair will distribute any Exclusion Notices submitted in accordance with Section 4.1 (Review of Draft Specifications) of the IPR Policy via the Public Mail List; provided, however, that the Chair may distribute such Exclusion Notices earlier.
+ 5. If a Draft Guideline Ballot passes the Initial Vote, the Forum Chair or the CWG Chair shall initiate, no later than the third (3rd) business day after the announcement of the Initial Vote results, an IPR Review Period of thirty (30) or sixty (60) days, as applicable and as described in Section 4.1 of the IPR Policy. The Forum Chair or CWG Chair will initiate the IPR Review Period by sending the Review Notice to the Forum's Public Mail List. The Review Notice will clearly specify the open and close dates and times (with time zone) of the IPR Review Period. If such Chair does not initiate the IPR Review Period within five (5) business days after the announcement of the Initial Vote results, the Vice Chair must initiate the IPR Review Period, using the same process as the Chair would have been required to use.
 
- 7. In addition to following the process for submitting Exclusion Notices set forth in Section 4 of the IPR Policy, Members shall also send Exclusion Notices to the Public Mail List as a safeguard.
+ 6. The IPR Review Period will continue to the end of the thirty (30) or sixty (60) day period, as applicable, regardless of the number of Exclusion Notices filed pursuant to the IPR Policy during such period, if any. No later than three (3) business days after the conclusion of the applicable IPR Review Period, the Chair will distribute any Exclusion Notices submitted in accordance with Section 4.1 (Review of Draft Specifications) of the IPR Policy via the Forum's Public Mail List; provided, however, that the Forum Chair or CWG Chair may distribute such Exclusion Notices earlier.
 
- 8. If no Exclusion Notices are filed during the Review Period with respect to a Draft Guideline Ballot, then the results of the Initial Vote are automatically deemed to be final, approved, and effective as of the end of the applicable Review Period. The Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify the Public Mail List of the results of the Review Period within three (3) business days, as well as update the Public Website of Final Guidelines and Final Maintenance Guidelines within ten (10) business days, of the close of the Review Period. The Chair or Vice-Chair of the Forum or of the CWG is allowed to perform changes to informative (non-normative) parts of a Final Guideline or Final Maintenance Guideline before it is published to the public web site and without requiring a ballot procedure. The set of changes are limited to:
+ 7. Exclusion Notices must comply with Section 4 of the IPR Policy, or they are null and void.
+
+ 8. If no Exclusion Notices are filed during the IPR Review Period with respect to a Draft Guideline Ballot, then the results of the Initial Vote are automatically deemed to be final, approved, and effective as of the end of the applicable IPR Review Period. The Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Forum Chair or CWG Chair will notify the appropriate Public Mail List of the results of the IPR Review Period within three (3) business days, as well as update the Public Website of Final Guidelines and Final Maintenance Guidelines within ten (10) business days, of the close of the IPR Review Period. The Chair or Vice-Chair of the Forum or of the CWG is allowed to perform changes to informative (non-normative) parts of a Final Guideline or Final Maintenance Guideline before it is published to the public web site and without requiring a ballot procedure. The set of changes are limited to:
     * The cover page,
     * The Table of Contents,
     * The year in the “Copyright” information,
@@ -122,13 +123,15 @@ This section applies to any ballot that proposes a Final Guideline or a Final Ma
     * The table with Relevant Dates.
     
 
- 9. If Exclusion Notice(s) are filed during the Review Period (as described in Section 4.3 of the IPR Policy), then the results of the Initial Vote are automatically rescinded and deemed null and void, and;
+ 9. If Exclusion Notice(s) are filed during the IPR Review Period (as described in Section 4.3 of the IPR Policy), then the results of the Initial Vote are automatically rescinded and deemed null and void.
 
-    a. A Patent Advisory Group (PAG) will be formed, in accordance with Section 7 of the IPR Policy, to address the conflict. The PAG will make a conclusion as described in Section 7.3.2 of the IPR Policy, and communicate such conclusion to the rest of the Forum, using the Member Mail List and the Public Mail List; and
+    a. A Patent Advisory Group (PAG) will be formed, in accordance with Section 7 of the IPR Policy, to address the conflict. The PAG will make a conclusion as described in Section 7.3.2 of the IPR Policy, and communicate such conclusion to the rest of the Forum, using the appropriate Public Mail List.
 
     b. After the PAG provides its conclusion, if the proposer and endorsers decide to proceed with the Draft Guidelines Ballot, and:
        1. The proposer and endorsers do not make any changes to the Draft Guidelines Ballot, such ballot must go through the steps described in Sections 2.4(2) through (4) above, replacing the “Initial Vote” with a “Second Vote.” If a Draft Guidelines Ballot passes the Second Vote, then the results of the Second Vote are deemed to be final and approved. Draft Guidelines then become either Final Guidelines or Final Maintenance Guidelines, as designated in the Draft Guidelines Ballot. The Chair will notify the Public Mail List of the approval, as well as update the public website of Final Guidelines and Final Maintenance Guidelines; or
-       2. The proposer and endorsers make changes to the Draft Guidelines Ballot, a new Draft Guidelines Ballot must be proposed, and must go through the steps described in Sections 2.3(1) through (9) above.
+       2. The proposer and endorsers make changes to the Draft Guidelines Ballot, a new Draft Guidelines Ballot must be proposed, and must go through the steps described in subsections 1. through 9. in Section 2.3 above.
+   
+    c. If an Exclusion Notice is filed during the IPR Review Period, an alternative ballot may be proposed at any time as a replacement.
 
  10. If a ballot is proposed to amend the same section of the Final Guidelines or the Final Maintenance Guidelines as one or more previous ballot(s) that has/have not yet been finally approved, the newly proposed ballot must include information about, and a link to, any such previous ballot(s), and may include provisions to avoid any conflicts relating to such previous ballots.
 
@@ -142,19 +145,20 @@ Associate Members may attend face-to-face meetings, communicate with other Membe
 
 ## 3.2 Interested Parties
 
-Any person or entity that wishes to participate in the Forum as an Interested Party may do so by providing their name, affiliation (optional), and contact information, and by agreeing to the IPR Policy Agreement attached as Exhibit A (indicating agreement by signing the agreement).
+Any person or entity that wishes to participate in the Forum as an Interested Party may do so by providing their name, affiliation (optional), and contact information, and by agreeing to and signing the appropriate IPR Policy Agreement; and by meeting additional criteria as set by the Forum to ensure a substantive interest or expertise relevant to the Forum’s objectives.
 
 Interested Parties may participate in Forum activities in the following ways:
 
  1. By becoming involved in CWGs,
 
- 2. By posting to the Public Mail List, and
+ 2. By posting to relevant Public Mail Lists, and
 
  3. By participating in those portions of Forum Teleconferences and Forum Meetings to which they are invited by the Forum or CWG Chair relating to their areas of special expertise or the subject of their CWG participation.
 
-Interested Parties are required to comply with the provisions of the IPR Policy Agreement and these Bylaws. Interested Parties may lose their status as Interested Parties by vote of the Voting Members, in the Voting Members’ sole discretion.
+Interested Parties are required to comply with the provisions of the relevant Interested Party IPR Policy Agreement and these Bylaws. Interested Parties may lose their status as Interested Parties by vote of the Voting Members, in the Voting Members’ sole discretion.
 
-Interested Parties apply by sending an e-mail to the Questions List, which includes:
+Interested Parties petition a CWG for Interested party status by sending an e-mail to the Questions List, which includes:
+* A list of their qualifications
 * The signed IPR Policy Agreement
 * The CWGs and any subcommittees in which they wish to join and Contribute.
 
@@ -164,7 +168,7 @@ A Probationary Member is a Certificate Issuer or Certificate Consumer that does 
 
 ## 3.4 Other Parties
 
-The public may follow the Forum’s activities by reading all postings on the Public Mail List and the Public Web Site. Questions or comments to the Forum may be sent to the Questions Mail List.
+The public may follow the Forum’s activities by reading all postings on its Public Mail Lists and the Public Web Site. Questions or comments to the Forum may be sent to the Questions Mail List.
 
 # 4. OFFICERS AND FINANCES
 
@@ -297,12 +301,12 @@ From time to time the Forum and CWGs will hold Teleconferences and Meetings amon
 
 ## 5.5 IPR policies
 
-As a requirement for membership, Voting Members must execute and return to the CWG Chair the IPR Policy Agreement attached as Exhibit A before participating in any CWG. As the IPR Policy is amended from time to time, Members will be required to execute and return a new IPR Agreement within ninety (90) days of the CWG Chair’s written request. If a Voting Member fails to execute and return the new IPR Policy Agreement within such 90-day period, then the Member's CWG and Forum membership shall default to a Probationary Member until the agreement is signed and returned.
+As a requirement for membership, Voting Members must execute and return to the CWG Chair the IPR Policy Agreement before participating in any CWG. As the IPR Policy is amended from time to time, Voring Members will be required to execute and return a new IPR Agreement within ninety (90) days of the CWG Chair’s written request. If a Voting Member fails to execute and return the new IPR Policy Agreement within such 90-day period, then the Voting Member's CWG and Forum membership shall default to a Probationary Member until the agreement is signed and returned.
 
-As a requirement for participation in any CWG as a Probationary Member, an Associate Member or Interested Party, the IPR Policy Agreement attached as Exhibit A must be executed and returned to the CWG Chair before participating in any CWG. As the IPR Policy is amended from time to time, Probationary Members, Associate Members and Interested Parties will be required to execute and return a new IPR Policy Agreement within ninety (90) days of the CWG Chair’s written request. If an Associate Member or Interested Party fails to execute and return the new IPR Policy Agreement within such 90-day period, its participation in Forum calls, meetings, activities, and events shall be suspended until the agreement is signed and returned.
+As a requirement for participation in any CWG as a Probationary Member, an Associate Member or Interested Party, such member must sign and submit the apropriate IPR Policy Agreement to the CWG Chair before participating in any CWG. As the IPR Policy is amended from time to time, Probationary Members, Associate Members, Interested Parties, and any other participants will be required to execute and return a new IPR Policy Agreement within ninety (90) days of the CWG Chair’s written request. If any participant fails to execute and return the new IPR Policy Agreement within such 90-day period, its participation in Forum and CWG calls, meetings, activities, and events shall be suspended until the agreement is signed and returned.
 
 ## 5.6 Forum Subcommittees
-The Forum may establish subcommittees of the Forum that are not designated by a CWG, by ballot, to address any of the Forum’s business as specified in the ballot (each, a “Forum Subcommittee”). Forum Subcommittees are open to all Forum Members. A Forum Subcommittee may work on and recommend Forum ballots, complete delegated Forum functions, or issue reports to the Forum that are within the Forum Subcommittee’s jurisdiction. Forum Subcommittees must post all agendas and minutes on a public mail list.
+The Forum may establish subcommittees of the Forum that are not designated by a CWG, by ballot, to address any of the Forum’s business as specified in the ballot (each, a “Forum Subcommittee”). Forum Subcommittees are open to all Forum Members. A Forum Subcommittee may work on and recommend Forum ballots, complete delegated Forum functions, or issue reports to the Forum that are within the Forum Subcommittee’s jurisdiction. Forum Subcommittees must provide all agendas and minutes to Forum Members.
 
 No actions taken by a Forum Subcommittee will implicate obligations under the IPR Policy. A Forum Subcommittee will not generate or discuss any Contributions, Draft Guidelines, Final Guidelines, or Final Maintenance Guidelines (as such terms are defined by the IPR Policy), or partake in any activity that would trigger obligations pursuant to the IPR Policy if such activity were undertaken by a CWG. 
 
@@ -318,8 +322,8 @@ The Forum procedure for dealing with questions and comments sent to the Question
 
  1. If practical, within twenty four (24) hours send an acknowledgment to the questioner indicating that the question or comment has been received and that a response will provided as soon as is practical.
 
- 2. Coordinate discussion using the Member Mail List until consensus has been achieved. Depending on the topic of the question, the Questions List Coordinator may choose to coordinate discussion on the appropriate CWG Member Mail List.
- 3. Post the proposed response to the Member Mail List indicating that Members have twenty four (24) hours to object.
+ 2. Coordinate discussion using the Questions List or Member Mail List until consensus has been achieved. Depending on the topic of the question, the Questions List Coordinator may choose to coordinate discussion on the appropriate CWG Member Mail List.
+ 3. Post the proposed response to the Questions List or Member Mail List indicating that Members have twenty four (24) hours to object.
 
  4. If no objections are received before the deadline expires, then send the response to the questioner.
  5. If consensus cannot be achieved, or one or more objections are received, then the matter should be dealt with in the next Forum Meeting or Forum Teleconference.
@@ -358,10 +362,12 @@ All Members shall abide by the CAB Forum Photography Policy, which is attached t
 
 **Voting Representative:** A natural person designated by the Voting Member organization allowed to cast votes on behalf of the Voting Member organization. Each Voting Representative can extend the set of Voting Representatives. Voting Representatives can also be introduced or removed by a Voting Member's legal (or properly delegated) representative.
 
-**Questions Mail List:** The email list-serv currently located at questions@cabforum.org maintained by the Forum for communications from the public to the Forum.
+**Questions Mail List:** The email list maintained by the Forum for communications from the public to the Forum.
 
 
-# Exhibit A: CAB Forum IPR Policy Agreement
+# Exhibit A: CAB Forum IPR Policy Agreements
+
+**CAB Forum IPR Policy Agreement for Members**
 
 This CAB Forum IPR Policy Agreement (the "Agreement") constitutes a binding contract amongst all participants who make Contributions during the process of developing a Draft Guideline for the purpose of incorporating such material into a Draft Guideline or a Final Guideline of the CA / Browser Forum.
 
@@ -372,9 +378,6 @@ The party signing this Agreement intends that it shall take effect as an instrum
 The Participant represents and warrants that either: (a) it has the authority to enter into this Agreement on behalf of all of its Affiliates; or (b) it has no Affiliates; or (c) each of its Affiliates has executed and delivered to the CAB Forum a countersignature to this Agreement, indicating that it consents to this Agreement, and agrees to enforce this Agreement's terms as to any of such Affiliate’s Intellectual Property, including such terms as may properly be changed by the CAB Forum by notice to the Participant under this Agreement.
 
 **PARTICIPANT**
-
-
-
 
 
 By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -390,6 +393,11 @@ Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Participant Organization Name (if entity)
 
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**CAB Forum IPR Policy Agreement for Interested Party (Individual)**
+
+**CAB Forum IPR Policy Agreement for Interested Party (Organization)**
+
 
 # Exhibit B: CAB Forum Code of Conduct (the "Code")
 
