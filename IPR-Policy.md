@@ -69,7 +69,7 @@ The timing and completeness of the Exclusion Notice will determine the effect on
 
 ## 4.5 New Participant Reviews.
 
-When a new Participant joins a Working Group, such Participant shall be permitted forty-five (45) days ("New Participant Review Period") to review the Draft Guidelines of such Working Group for any and all Essential Claims. With respect to any Working Group Draft Guideline for which a Review Period has commenced, a new Participant shall have the New Participant Review Period or the remainder of the Review Period (whichever is greater) in which to submit an Exclusion Notice.
+A Participant joining a Working Group (a “new Participant”) shall assume the same rights and obligations under this Policy as existing Participants as of the date such new Participant joins the Working Group. With respect to any Draft Guideline for which a Review Period is in progress, such new Participant may submit an Exclusion Notice only during the remainder of the applicable Review Period. No additional or retroactive Review Period shall arise when a new Participant joins a Working Group, and such new Participant may not submit an Exclusion Notice with respect to any Previously Adopted Guideline. Essential Claims of such new Participant shall otherwise be subject to the CAB Forum RF License pursuant to Section 3.1.
 
 # 5. CAB Forum Royalty-Free ("RF") License Requirements
 
@@ -211,4 +211,5 @@ l. **"Working Group"** means a working group that has been approved by the CAB F
 ## 8.4 Transfer of Essential Claims
 
 Any transfer by Participant to an unaffiliated third party of a patent having Essential Claims shall be subject to the terms and conditions of this Policy. A Participant may choose the manner in which it complies with this Section, provided that any agreement for transferring or assigning Essential Claims includes a provision that such transfer or assignment is subject to existing licenses and obligations to license imposed on the Participant by standards bodies, specification development organizations, or similar organizations (or language of similar import).
+
 
